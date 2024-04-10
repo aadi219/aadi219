@@ -33,15 +33,15 @@ Enthusiastic and performance-driven full-stack developer and software engineer w
 - Established seamless connections between the back-end and front-end using appropriate controllers for efficient data flow. 
 - Collaborated effectively with cross-functional teams, communicating necessary changes, and ensuring proper application functionality. 
 - Developed Python projects focusing on data preprocessing, graphical analysis, and machine learning model development for publicly available datasets. **Notable achievements:** 
-- Led the data preprocessing phase, leveraging Numpy and Pandas to clean datasets and ensure data integrity.**  
+- Led the data preprocessing phase, leveraging Numpy and Pandas to clean datasets and ensure data integrity.  
 - Utilized Matplotlib for graphical analysis and visualizations, uncovering trends and patterns within datasets which provided valuable insights for decision-making.**  
-- Employed Scikit-Learn and TensorFlow for training classifier models, achieving high accuracy in trend prediction.** 
-- Evaluated the neural networks using various appropriate and diverse metrics like accuracy, f1-score, etc.** 
-- Led the creation of a dynamic web application serving as a feature-rich Community-Driven Learning Platform. **My responsibilities included**:** 
-- Collaborating with my front-end colleagues to design the structure of the web application.** 
-- Designing and implementing a secure MySQL database for efficient storage of user and application data.** 
-- Developing a PHP backend using an Object-Oriented MVC design pattern ensuring smooth and secure data flow between all components of the application.** 
-- Effectively programming all key functionalities such as User Authentication,** Learning Path Management, and Community Interaction with appropriate error handling and input validation using PHP and JavaScript, ensuring consistency and security.** 
+- Employed Scikit-Learn and TensorFlow for training classifier models, achieving high accuracy in trend prediction. 
+- Evaluated the neural networks using various appropriate and diverse metrics like accuracy, f1-score, etc.
+- Led the creation of a dynamic web application serving as a feature-rich Community-Driven Learning Platform. **My responsibilities included**: 
+- Collaborating with my front-end colleagues to design the structure of the web application.
+- Designing and implementing a secure MySQL database for efficient storage of user and application data.
+- Developing a PHP backend using an Object-Oriented MVC design pattern ensuring smooth and secure data flow between all components of the application.
+- Effectively programming all key functionalities such as User Authentication, Learning Path Management, and Community Interaction with appropriate error handling and input validation using PHP and JavaScript, ensuring consistency and security. 
 
 ### PROFESSIONAL EXPERIENCE
 - - -
