@@ -4,7 +4,7 @@
 ❖ [github.com/aadi219  ](https://github.com/aadi219/) ❖ [linkedin.com/in/aadibadola/ ](https://www.linkedin.com/in/aadibadola/)
 - - -
 ### SUMMARY  
-Enthusiastic and performance-driven full-stack developer and software engineer with a solid foundation in a diverse range of software development concepts such as Data Structures, OOP, Web-App Development, Database Management and Administration, and Systems Design and Analysis. Proficiency in languages such as C#, Java, Python, JavaScript, PL/SQL, PHP, HTML and CSS along with many of their popular frameworks and libraries. 
+Enthusiastic and performance-driven Full-Stack Developer and Software Engineer with a solid foundation in a diverse range of software development concepts such as Data Structures, OOP, Deep Learning, Web-App Development, Database Administration and Systems Design. Proficiency in languages such as C#, Java, Python, JavaScript, PL/SQL, PHP, HTML and CSS along with many of their popular frameworks and libraries. With an avid interest in Deep Learning, I am excited to combine my skills in software and web development with my growing knowledge of AI and Machine Learning. 
 
 ### HIGHLIGHTS OF QUALIFICATIONS
 - - -
@@ -16,32 +16,31 @@ Enthusiastic and performance-driven full-stack developer and software engineer w
 
 ### TECHNICAL SKILLS 
 - - -
-- Fluent in C# (ASP.NET Core), Java, Python, PL/SQL, JavaScript, TypeScript, PHP
-- Experience using the LAMP stack to create dynamic web-apps using HTML/CSS and JavaScript frontend along with libraries such as Bootstrap and jQuery.
-- Proficient in Database design, administration and query optimization using MySQL in MySQL Workbench and PL/SQL in Oracle SQL Developer
-- Experience with the Data Analysis workflow and Machine Learning using various Python Libraries such as Pandas, Numpy, Matplotlib, Scikit-Learn, TensorFlow etc.
-- Experience using version control and collaborative development practices utilizing Git and GitHub.
+- **Programming Languages** – C#, Java, Python, PL/SQL, JavaScript (TypeScript), PHP, BASH.
+- **WEB** – ASP.NET Core, LAMP, Django, REACT, jQuery
+- **Database Management** – PL/SQL, SQL Developer, MySQL Workbench, ORMs (EF Core).
+- **Data Science/AI** – TensorFlow, Pandas, Numpy, Scikit-learn, Deep Learning, CNNs, Supervised Learning.
+- **Software Development** – Version Control (Git), Agile SCRUM
+
 ### APPLICABLE EXPERIENCE 
 - - -
-- Participated in Design Jam 2024, conducted by George Brown College in collaboration with Ontario Power Generation to develop a mobile application for both iOS and Android. **Highlights of the application:** 
-	- Developed using the Flutter SDK for cross-platform development while maintaining a single codebase.  
-	- Ability to capture, store, and manage images and notes in custom repositories along with the annotation and drawing functionalities for captured images, allowing users to highlight certain aspects. 
-	- Auto-logging location data using the device’s GPS functionalities to track where data entries were captured. 
-	- Secure and convenient single sign-on authentication by integrating Azure Open Authorization.  
-- Collaborated in the development of a GUI integrated Java application optimizing administrative processes of HR and management departments. **Key Contributions:** 
-	- Designed and implemented core functionalities including attendance tracking and detailed report generation. 
-	- Established seamless connections between the back-end and front-end using appropriate controllers for efficient data flow. 
-	- Collaborated effectively with cross-functional teams, communicating necessary changes, and ensuring proper application functionality. 
-- Developed Python projects focusing on data preprocessing, graphical analysis, and machine learning model development for publicly available datasets. **Notable achievements:** 
-	- Led the data preprocessing phase, leveraging Numpy and Pandas to clean datasets and ensure data integrity. 
-	- Utilized Matplotlib for graphical analysis and visualizations, uncovering trends and patterns within datasets which provided valuable insights for decision-making.
-	- Employed Scikit-Learn and TensorFlow for training classifier models, achieving high accuracy in trend prediction. 
-	- Evaluated the neural networks using various appropriate and diverse metrics like accuracy, f1-score, etc.
-- Led the creation of a dynamic web application serving as a feature-rich Community-Driven Learning Platform. **My responsibilities included**: 
-	- Collaborating with my front-end colleagues to design the structure of the web application.
-	- Designing and implementing a secure MySQL database for efficient storage of user and application data.
-	- Developing a PHP backend using an Object-Oriented MVC design pattern ensuring smooth and secure data flow between all components of the application.
-	- Effectively programming all key functionalities such as User Authentication, Learning Path Management, and Community Interaction with appropriate error handling and input validation using PHP and JavaScript, ensuring consistency and security.
+- Participated in Design Jam 2024, conducted by George Brown College in collaboration with Ontario Power Generation to develop a mobile application for both iOS and Android. **Features implemented:**
+  - Cross-platform development while maintaining a single codebase using the Flutter SDK.
+  - Ability to capture, store, and manage images and notes in custom repositories along with the annotation and drawing functionalities for captured images, allowing users to highlight certain aspects.
+  - Auto-logging location data using the device’s GPS functionalities to track where data entries were captured.
+  - Secure and convenient single sign-on authentication by integrating Azure Open Authorization.
+
+- Developed AI and Deep Learning projects in Java and Python projects utilizing publicly available datasets. **Notable achievements:**
+  - Creating multiple image classification models using convolutional neural networks achieving model accuracies up to 94%.
+  - Created a classification model to predict the salary of an employee using gradient-boosting, analyzing various factors such as education, ethnicity, age, and more.
+  - Developed a Java application implementing a Perceptron class with accurate backpropagation enabling users to visualize the training process of Neural Networks.
+  - Developed algorithmic AI for the Connect 4 game implementing algorithms such as Minimax with optimizations like alpha-beta pruning, iterative deepening, and move sorting.
+
+- Led the creation of many end-to-end web applications using stacks such as LAMP and ASP.NET Core. **Responsibilities on the projects included:**
+  - Collaborating with my front-end colleagues to design the structure of the web application.
+  - Designing a secure database using MySQL or MSSQL for efficient storage of application data.
+  - Developing a robust backend using an Object-Oriented MVC design pattern using the .NET framework ensuring smooth and secure data flow between all components of the application.
+  - Effectively programming all key functionalities such as User Authentication, Role-Based Authorization, and Community Interaction with appropriate error handling and input validation using JavaScript and the relevant back-end language, ensuring consistency and security.
 
 ### PROFESSIONAL EXPERIENCE
 - - -
