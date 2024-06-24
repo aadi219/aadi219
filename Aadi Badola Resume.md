@@ -55,7 +55,7 @@ Enthusiastic and performance-driven Full-Stack Developer and Software Engineer w
 
 ### EDUCATION
 - - -
-**George Brown College - April 2025**
+**George Brown College - April 2025** \
 Advanced Diploma – Computer Programming and Analysis  
  - President - GBC Computer Science Club (Winter 2024 - 2025)
  - Dean’s Honor Roll for all completed semesters (Fall 2022 - Present)
