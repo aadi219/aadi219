@@ -12,8 +12,8 @@
 
 #resume_heading[Experience]
 #exp_item(
-  role: "Software Developer",
-  name: "Claro Customs, Full-Time",
+  role: "Software Developer, Full-Time",
+  name: "Antek Logistics - Claro Customs",
   location: "Toronto, ON",
   date: "May 2025 - Present",
   [Engineered and maintained *microservices* within a *NestJS + TypeScript monorepo*, enabling scalable handling of customs processing for U.S. and Canadian clients.],
@@ -22,17 +22,17 @@
   [Automated document classification, data extraction, and filing using *n8n workflows* integrated with third-party APIs, reducing manual document handling time by *over 90%*.],
 )
 #exp_item(
-  role: "Research Assistant - AI Systems",
-  name: "George Brown College, Contract Part-Time",
+  role: "Research Assistant, Contract Part-Time",
+  name: "George Brown College",
   location: "Toronto, ON",
-  date: "Nov 2025 - Present",
-  [Designed the integration of a proprietary website builder and CRM with an *agentic LLM system* capable of generating multi-step workflows for CRM/website data orchestration],
-  [Assisted in the development of *customized assistants using Small Language Models* enhanced with RAG capababilities using client specific website content.],
+  date: "November 2025 - Present",
+  [Designed an *agentic LLM system* capable of generating multi-step workflows integrated with a proprietary website builder and CRM],
+  [Assisted in the development of *customized assistants using Small Language Models* enhanced with RAG capabilities using client specific website content.],
   [Built *tool interfaces and MCP servers* enabling structured tool calling and the integration of AI agents with proprietary software.],
 )
 #exp_item(
-  role: "Research Assistant - AI & Quality Assurance",
-  name: "George Brown College, Contract Part-Time",
+  role: "Research Assistant, Contract Part-Time",
+  name: "George Brown College",
   location: "Toronto, ON",
   date: "April 2025 - July 2025",
   [Implemented a *deep learning-based computer vision system* for defect detection in manufacturing pipelines.],
